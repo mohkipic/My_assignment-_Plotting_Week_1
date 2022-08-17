@@ -34,7 +34,7 @@ dev.off()
 ```
 
 ### Plot 2
-
+![plot2](/plot2.png)
 
 ##  Plot3.R (Code)
 ```

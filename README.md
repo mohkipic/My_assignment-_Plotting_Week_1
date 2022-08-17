@@ -18,22 +18,28 @@ hist(powerDT$Global_active_power, main="Global Active Power", xlab="Global Activ
 dev.off() 
 ```
 ### Plot 1
+![plot1](/plot1.png)
 
 
+##  Plot2.R (Code)
+```
 
-
+```
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
+##  Plot3.R (Code)
+```
+
+```
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+##  Plot4.R (Code)
+```
 
+```
 
 ### Plot 4
-
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
